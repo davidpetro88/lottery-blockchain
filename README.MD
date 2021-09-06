@@ -30,7 +30,7 @@ node deploy.js
 
 ```
 
-Edit file abi.json
+Edit file contractABI.json
 
 ```
 
